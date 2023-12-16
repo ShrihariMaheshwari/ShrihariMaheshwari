@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrihari Maheshwari</h1>
-<h3 align="center">A passionate DevOps and FullStack developer from India</h3>
+<h3 align="center">A passionate Software and FullStack developer</h3>
 
 - 🔭 I’m currently working on **building API proxy server**
 
