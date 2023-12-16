@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, AWS (Amazon Web Services), Serverless frameworks**
 
-- 📫 How to reach me **shrihari.maheshwari7@gmail.com**
+- 📫 How to reach me **shriharim14@vt.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
