@@ -12,24 +12,25 @@
 ### 👨‍💻 About Me
 
 - 🎓 Graduate Student at Virginia Tech
-- 💼 Software Developer with 2+ years of experience
+- 💼 Software Developer with 4+ years of experience
 - 🏢 Formerly Software Engineer at Wolters Kluwer
-- 🌱 Currently exploring Cloud Architecture and DevOps practices
+- 🌱 Currently exploring Nextjs and Nestjs practices
 - 🚀 Passionate about building scalable web applications and cloud solutions
 
 ### 🔭 Current Focus
 
 - Building serverless applications using AWS
-- Developing full-stack web applications with React and Node.js
+- Developing full-stack web applications with React and Typescript
 - Exploring cloud-native technologies and microservices architecture
-- Learning Vue.js and Gatsby for modern web development
+- Learning Next.js and Framer Motion for modern web development
 
 ### 💼 Technical Skills
 
 **Languages & Frameworks:**
 - JavaScript/TypeScript
+- Angular
 - React.js
-- Node.js
+- Framer Motion
 - Python
 - C++
 
@@ -48,8 +49,8 @@
 
 ### 🤝 Let's Connect!
 
-- 💬 Ask me about **React, AWS, Serverless Architecture**
-- 👯 Open to collaborating on **DevOps and React Projects**
+- 💬 Ask me about **Full-Stack, AWS, Serverless Architecture**
+- 👯 Open to collaborating on **DevOps and Full-Stack Projects**
 - 🤝 Looking for help with **Kubernetes and Helm**
 - 📫 Reach me at: **shriharim14@vt.edu**
 
