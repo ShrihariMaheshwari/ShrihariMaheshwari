@@ -14,7 +14,7 @@
 - 🎓 Graduate Student at Virginia Tech
 - 💼 Software Developer with 4+ years of experience
 - 🏢 Formerly Software Engineer at Wolters Kluwer
-- 🌱 Currently exploring Cloud Architecture and DevOps practices
+- 🌱 Currently exploring Next.js and GSAP.
 - 🚀 Passionate about building scalable web applications and cloud solutions
 
 ### 🛠️ Technical Skills
@@ -82,15 +82,15 @@
 ### 🔭 Current Focus
 
 - Building serverless applications using AWS
-- Developing full-stack web applications with React and Node.js
+- Developing full-stack web applications with React and Typescrip
 - Exploring cloud-native technologies and microservices architecture
-- Learning Vue.js and Gatsby for modern web development
+- Learning Next.js and Framer Motion for modern web development
 
 ### 🤝 Let's Connect!
 
-- 💬 Ask me about **React, AWS, Serverless Architecture**
-- 👯 Open to collaborating on **DevOps and React Projects**
-- 🤝 Looking for help with **Kubernetes and Helm**
+- 💬 Ask me about **Full-Stack, AWS, Serverless Architecture**
+- 👯 Open to collaborating on **DevOps and Full-Stack Projects**
+- 🤝 Looking for help with **Kubernetes and GSAP**
 - 📫 Reach me at: **shrihari.maheshwari7@gmail.com**
 
 ---
