@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Cloud Engineering Enthusiast</h3>
 
 <p align="center">
-  <a href="https://shriharim.netlify.app" target="_blank">Portfolio</a> •
+  <a href="https://shriharim.com" target="_blank">Portfolio</a> •
   <a href="mailto:shrihari.maheshwari7@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/shrihari-maheshwari/">LinkedIn</a>
 </p>
