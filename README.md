@@ -24,6 +24,12 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     </a>&nbsp;&nbsp;
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+        <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="framer-motion" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>&nbsp;&nbsp;
@@ -42,6 +48,9 @@
 <p align="left">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
     </a>&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
