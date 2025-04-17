@@ -13,7 +13,7 @@
 
 - 🚀 Senior Full-Stack Engineer with **4+ years of experience**
 - 🧠 CS Master’s Candidate @ **Virginia Tech**
-- 🏢 Currently at **Shure**, building real-time ML-integrated scalable audio systems
+- 🏢 Currently at **Shure**, building real-time ML-integrated audio systems
 - 🛠️ Ex–Wolters Kluwer | **4x AWS Certified**
 - 🧩 Passionate about clean code, scalable architecture, and building products from **0→1**
 
