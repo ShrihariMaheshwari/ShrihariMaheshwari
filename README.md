@@ -22,10 +22,10 @@
 ### ⚙️ Tech Toolbox
 
 #### 🖥️ Frontend
-**React**, **Angular**, **TypeScript**, **Tailwind CSS**, **Astro**
+**React**, **Angular**, **TypeScript**, **Tailwind CSS**, **Astro**, **Mantine**
 
 #### 🗄️ Backend
-**NestJS**, **Node.js**, **Python** (built high-throughput ingestion engines), **GraphQL**, **PostgreSQL**, **MongoDB**, **Redis**
+**NestJS**, **Node.js**, **Python**, **GraphQL**, **PostgreSQL**, **MongoDB**, **FastAPI**
 
 #### ☁️ Cloud & DevOps
 **AWS (Lambda, ECS, S3, CloudFormation)**, **Docker**, **Kubernetes**, **Terraform**, **CI/CD Pipelines**, **Firebase**
@@ -35,13 +35,13 @@
 ### 🔭 Notable Projects & Focus Areas
 
 - **Corvus Robotics**: 
-  - Built a **Python-based WMS ingestion engine** processing **100+ GB/day** for drone-to-database comparison, cutting processing time from weeks to hours
+  - Built a **Python-based ingestion engine** processing **100+ GB/day** cutting processing time from weeks to hours
   - Developed **Spotlight Search for AIMS**, enabling **sub-second queries** across 50+ GB of indexed data
   - Created a **self-service interface** allowing clients to edit labels/descriptions for efficient drone-data matching
   - Designed a **real-time dashboard** improving visibility into terabytes of operational data
   - Shipped features daily, scaling engineering velocity by **3x**
 
-- Scaling full-stack apps with **React + Python + AWS**
+- Scaling full-stack apps with **React + Python + Typescript**
 - Designing **cloud-native, serverless architectures** and Infrastructure-as-Code pipelines
 - Exploring **interactive UI, Framer Motion**, multi-agent orchestration & open-world AI agents
 
