@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Shrihari Maheshwari 👋</h1>
-<h3 align="center">Full-Stack Engineer | Cloud Architect | Builder of Real-Time, Scalable Systems</h3>
+<h3 align="center">Founding Software Engineer | Full-Stack & Cloud Architect | Builder of Scalable, Clean Systems</h3>
 
 <p align="center">
   <a href="https://shriharim.com" target="_blank">🌐 Portfolio</a> •
@@ -11,39 +11,45 @@
 
 ### 👨‍💻 Who I Am
 
-- 🚀 Senior Full-Stack Engineer with **4+ years of experience**
-- 🧠 CS Master’s Candidate @ **Virginia Tech**
-- 🏢 Currently at **Shure**, building real-time ML-integrated scalable audio systems
-- 🛠️ Ex–Wolters Kluwer | **4x AWS Certified**
-- 🧩 Passionate about clean code, scalable architecture, and building products from **0→1**
+- 🚀 Founding Software Engineer at **Corvus Robotics**, building and shipping production-ready features rapidly
+- 🧠 Completed **Master’s in Computer Science @ Virginia Tech**
+- 🏢 Ex–Shure | Wolters Kluwer | **4x AWS Certified**
+- 🛠️ Passionate about **clean code, scalable architecture, and building products from 0→1**
+- ⚡ Experienced in **shipping daily**, designing cloud-native systems, and scaling full-stack products efficiently
 
 ---
 
 ### ⚙️ Tech Toolbox
 
 #### 🖥️ Frontend
-**React**, **Next.js**, **Angular**, **TypeScript**, **Tailwind CSS**, **Astro**
+**React**, **Angular**, **TypeScript**, **Tailwind CSS**, **Astro**
 
 #### 🗄️ Backend
-**NestJS**, **Node.js**, **Python**, **GraphQL**, **PostgreSQL**, **MongoDB**, **Redis**
+**NestJS**, **Node.js**, **Python** (built high-throughput ingestion engines), **GraphQL**, **PostgreSQL**, **MongoDB**, **Redis**
 
 #### ☁️ Cloud & DevOps
 **AWS (Lambda, ECS, S3, CloudFormation)**, **Docker**, **Kubernetes**, **Terraform**, **CI/CD Pipelines**, **Firebase**
 
 ---
 
-### 🔭 Current Focus Areas
+### 🔭 Notable Projects & Focus Areas
 
-- Scaling full-stack apps with **Next.js + AWS**
-- Designing **cloud-native systems** with Serverless & IaC
-- Playing with **Framer Motion** and interactive UI animations
-- Exploring **multi-agent orchestration** & open-world AI agents
+- **Corvus Robotics**: 
+  - Built a **Python-based WMS ingestion engine** processing **100+ GB/day** for drone-to-database comparison, cutting processing time from weeks to hours
+  - Developed **Spotlight Search for AIMS**, enabling **sub-second queries** across 50+ GB of indexed data
+  - Created a **self-service interface** allowing clients to edit labels/descriptions for efficient drone-data matching
+  - Designed a **real-time dashboard** improving visibility into terabytes of operational data
+  - Shipped features daily, scaling engineering velocity by **3x**
+
+- Scaling full-stack apps with **React + Python + AWS**
+- Designing **cloud-native, serverless architectures** and Infrastructure-as-Code pipelines
+- Exploring **interactive UI, Framer Motion**, multi-agent orchestration & open-world AI agents
 
 ---
 
 ### 🤝 Let's Collaborate
 
-- 💬 Always happy to jam on **DevOps**, **ML-integrated full-stack systems**, or **infra challenges**
+- 💬 Always happy to jam on **full-stack systems, ML-integrated apps**, or **cloud/infra challenges**
 - 👀 Open to **founding engineer opportunities** and impactful side projects
 - 📬 Drop a line: **shrihari.maheshwari7@gmail.com**
 
